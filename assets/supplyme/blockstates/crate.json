@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "supplyme:block/cratemodel"
+    },
+  "facing=south": {
+    "model": "supplyme:block/cratemodel",
+    "y": 180
+  },
+  "facing=west": {
+    "model": "supplyme:block/cratemodel",
+    "y": 270
+  },
+  "facing=east": {
+    "model": "supplyme:block/cratemodel",
+    "y": 90
+   }
+  }
+}
